@@ -5,7 +5,7 @@
 <a href="#"><img width="100%" height="auto"  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Silawat</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India skilled in MERN stack.</h3>
 
 <p align= "center">
 
