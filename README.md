@@ -53,18 +53,18 @@
 <!-- <a href="https://www.buymeacoffee.com/AleemAlam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 <p align="center">
-    <a href="https://github.com/BhaskarRai/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Bhaskar Rai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarRai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/abhishek-0607/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Silawat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-0607&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
   <p align="center">
-    <a href="https://github.com/BhaskarRai/github-readme-stats"><img alt="Bhaskar Rai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BhaskarRai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/abhishek-0507/github-readme-stats"><img alt="Abhishek Silawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-0607&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <!--        <p align="center">
   <a href="https://github.com/bhaskar0507/github-readme-stats"><img alt="aleem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar0507&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar0507&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0607&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
 
   <!-- <p>
@@ -78,7 +78,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/BhaskarRai/github-readme-activity-graph"><img alt="Bhaskar Rai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhaskar0507&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abhishek-0607/github-readme-activity-graph"><img alt="Abhishek Silawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishek-0607&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -86,17 +86,15 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bhaskar-rai-0a06241a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/bhaskar9893"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/bhaskar_the_multitasker/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-<a href = "https://www.youtube.com/channel/UCPzZpkafb_MK_J6dNA89OSg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/abhishek-silawat-88b738195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/absilawat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ab___360/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/BhaskarRai/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=BhaskarRai">
+<a href="https://github.com/abhishek-0607/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=abhishek-0607">
 </a>
-<a href="https://github.com/bhaskar0507?tab=followers"><img src="https://img.shields.io/github/followers/BhaskarRai?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/abhishek-0607?tab=followers"><img src="https://img.shields.io/github/followers/abhishek-0607?label=Followers&style=social" alt="GitHub Badge"></a>
