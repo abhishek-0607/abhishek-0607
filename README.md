@@ -1,6 +1,6 @@
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AleemAlam.AleemAlam) -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-0607&label=Profile%20views&color=0e75b6&style=flat" /> </p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-0607&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <a href="#"><img width="100%" height="auto"  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="175px"/></a>
 
