@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-0607&label=Profile%20views&color=0e75b6&style=flat" /> </p> -->
 
-<a href="#"><img width="100%"  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="500px"/></a>
+<a href="#"><img width="100%"  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Silawat</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with a specialization in MERN stack from Bhopal, Madhya Pradesh (India).</h3>
