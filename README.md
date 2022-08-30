@@ -7,14 +7,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Silawat</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with a specialization in MERN stack from Bhopal, Madhya Pradesh (India).</h3>
 
-<p align= "center">
+<!--<p align= "center">
 
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
 <img src="https://img.shields.io/badge/React-React-blue"/>
 <img src="https://img.shields.io/badge/Node-node-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
-</p>
+</p>-->
 
 ## 🙋‍♂️ About Me
 
