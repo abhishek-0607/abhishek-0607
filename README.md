@@ -40,7 +40,7 @@
      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> --> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
@@ -48,8 +48,6 @@
 <br/>
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea :pleading_face::point_right::point_left: -->
-
-<!-- <a href="https://www.buymeacoffee.com/AleemAlam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 <p align="center">
     <a href="https://github.com/abhishek-0607/github-readme-streak-stats">
@@ -61,7 +59,7 @@
     <a href="https://github.com/abhishek-0507/github-readme-stats"><img alt="Abhishek Silawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-0607&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <!--        <p align="center">
-  <a href="https://github.com/bhaskar0507/github-readme-stats"><img alt="aleem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar0507&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
+  <a href="https://github.com/abhishek-0607/github-readme-stats"><img alt="aleem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0607&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0607&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
