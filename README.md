@@ -76,6 +76,7 @@
 <br/>
 
 <a href="https://github.com/abhishek-0607/github-readme-activity-graph"><img alt="Abhishek Silawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishek-0607&theme=react-dark" /></a>
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0607&theme=dracula)](https://github.com/abhishek-0607/github-readme-activity-graph)
 
 <br/>
 
