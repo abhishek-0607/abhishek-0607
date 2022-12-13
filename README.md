@@ -56,7 +56,7 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/abhishek-0507/github-readme-stats"><img alt="Abhishek Silawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-0607&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/abhishek-0607/github-readme-stats"><img alt="Abhishek Silawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-0607&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <!--        <p align="center">
   <a href="https://github.com/abhishek-0607/github-readme-stats"><img alt="aleem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0607&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
