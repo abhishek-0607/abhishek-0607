@@ -24,7 +24,7 @@
 
 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-🥅 **2022 Goals :** Learning new things and contribute more
+🥅 **2023 Goals :** Learning new things and contribute more
 
 <!-- 📫 You can reach me at [chat](mailto:absilawat@gmail.com)! -->
 
